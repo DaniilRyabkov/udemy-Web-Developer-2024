@@ -16,7 +16,6 @@
         <td>Sleeps after 30 mins of inactivity</td>
         <td>Multiple workers for more powerful apps</td>
     </tr>
-    
     <tr>
         <td>Dedicated</td>
         <td>Simple horizontal scalability</td>
