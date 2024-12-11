@@ -6,6 +6,7 @@
     <tr>
         <th>Personal</th>
         <th>Small team</th>
+        <th>Enterprise</th>
     </tr>
     <tr>
         <td>Custom domains</td>
@@ -16,7 +17,6 @@
         <td>Multiple workers for more powerful apps</td>
     </tr>
     <tr>
-        <th>Enterprise</th>
         <td>Dedicated</td>
         <td>Simple horizontal scalability</td>
     </tr>
