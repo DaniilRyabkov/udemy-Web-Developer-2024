@@ -4,16 +4,16 @@
 <table>
     <tr>
         <th>Personal</th>
-        <th>Custom domains</th>
-      <th>Sleeps after 30 mins of inactivity</th>
+        <th>Small team</th>
+      <th>Enterprise</th>
     </tr>
     <tr>
-        <td>Ячейка 1.1</td>
-        <td>Ячейка 2.1</td>
+        <td>Custom domains</td>
+        <td>Never sleeps</td>
     </tr>
     <tr>
-        <td>Ячейка 1.2</td>
-        <td>Ячейка 2.2</td>
+        <td>Sleeps after 30 mins of inactivity</td>
+        <td>Multiple workers for more powerful apps</td>
     </tr>
 </table>
 ![Desktop Screenshot 2024 12 11 - 16 00 33 56](https://github.com/user-attachments/assets/4eca8290-8067-43eb-8308-409702fa2c30)
