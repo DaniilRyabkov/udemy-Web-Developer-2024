@@ -11,13 +11,13 @@
     <tr>
         <td>Custom domains</td>
         <td>Never sleeps</td>
+        <td>Dedicated</td>
     </tr>
     <tr>
         <td>Sleeps after 30 mins of inactivity</td>
         <td>Multiple workers for more powerful apps</td>
     </tr>
     <tr>
-        <td>Dedicated</td>
         <td>Simple horizontal scalability</td>
     </tr>
 </table>
