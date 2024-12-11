@@ -6,7 +6,7 @@
     <tr>
         <th>Personal</th>
         <th>Small team</th>
-      <th>Enterprise</th>
+        <th>Enterprise</th>
     </tr>
     <tr>
         <td>Custom domains</td>
